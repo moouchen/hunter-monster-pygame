@@ -16,3 +16,7 @@ You control a hunter who can jump and shoot bullets to fight monsters.
 2. Install Pygame library by running:  
    ```bash
    pip install pygame
+## Screenshots
+![Gameplay 1](screenshot/Screenshot%202025-06-17%20171833.png)
+
+![Gameplay 2](screenshot/Screenshot%202025-06-17%20172046.png)
